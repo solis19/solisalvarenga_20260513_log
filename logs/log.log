@@ -1,0 +1,6 @@
+
+13-05-2026 19:33:23.254500 CST ::1 [notice]: referer:  Dirección IP no autorizada ha cargado el archivo C:\xampp\htdocs\solisalvarenga_20260513_log\index.php ha sido redirigido a: https://www.ufg.edu.sv/ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+13-05-2026 19:37:05.112100 CST 127.0.0.1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\solisalvarenga_20260513_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+13-05-2026 19:37:20.819800 CST 127.0.0.1 [notice]: referer: http://localhost/solisalvarenga_20260513_log/ Credenciales incorrectas enviadas hacia //localhost/solisalvarenga_20260513_log/core/process.php Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+13-05-2026 19:37:20.844400 CST 127.0.0.1 [info]: referer: http://localhost/solisalvarenga_20260513_log/ El archivo C:\xampp\htdocs\solisalvarenga_20260513_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+13-05-2026 19:37:27.136200 CST 127.0.0.1 [notice]: referer: http://localhost/solisalvarenga_20260513_log/?status=7 El cliente inició sesión correctamente Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
